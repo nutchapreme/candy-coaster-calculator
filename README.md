@@ -2,7 +2,9 @@
 
 A single-page web calculator for estimating speed, g-forces, dispatch timing, and throughput of a small multi-train "candy coaster" (trains carry candies instead of riders). Includes a read-only VelociCoaster reference preset as a sanity check.
 
-No install, no dependencies. Just open the HTML file in a browser.
+**🔗 [Try it live](https://nutchapreme.github.io/candy-coaster-calculator/)**
+
+No install, no dependencies. Runs in any browser.
 
 ## Features
 
@@ -80,7 +82,7 @@ Its 70 mph peak comes from the second LSM launch, not gravity. The calculator on
 
 ## Usage
 
-1. Download or clone the repo
-2. Open the `.html` file in any modern browser
-3. Pick a preset, choose units, and edit inputs
-4. Export CSV or print to PDF
+1. Open the [live calculator](https://nutchapreme.github.io/candy-coaster-calculator/)
+   (or download `index.html` and open it locally)
+2. Pick a preset, choose units, and edit inputs
+3. Export CSV or print to PDF
